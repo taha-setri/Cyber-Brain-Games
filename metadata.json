@@ -1,0 +1,8 @@
+{
+  "name": "Remix منصة ألعاب العقل وسرعة التركيز | Cyber Brain Games",
+  "description": "منصة ألعاب العقل الشاملة: اختبار سرعة رد الفعل بالملي ثانية، شبكة الذاكرة البصرية، تحدي ذاكرة الشمبانزي أيومو، الحساب الذهني العصبي الخاطف، وتحدي التركيز مع موسيقى التحفيز وموجات الدماغ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
